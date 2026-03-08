@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-Full-time undergraduate Electrical Engineering student, hobby Artist and Game Developer, dog owner.
+Full-time undergraduate Electrical Engineering student, Artist, Game Developer, houseservant of cats, dogs, and bearded dragons.
 <h2>I Code With</h2>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
