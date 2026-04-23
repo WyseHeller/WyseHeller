@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-Full-time undergraduate Electrical Engineering student, part-time digital artist.
+Full-time undergraduate Electrical Engineering student, digital art & gamedev hobbyist.
 <h2>I Code With</h2>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
