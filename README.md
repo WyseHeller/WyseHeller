@@ -7,9 +7,3 @@ Full-time undergraduate Electrical Engineering student, digital art & gamedev ho
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="64">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="64">
 </p>
-<h2>Quick Links</h2>
-<p>
-  <ul>
-    <li><a href="https://github.com/WyseHeller?tab=repositories&q=rimworld">Rimworld Mods</a></li>
-  </ul>
-</p>
